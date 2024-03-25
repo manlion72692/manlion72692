@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A passionate frontend developer from India</h2>
+<h2 align="center">A passionate Frontend developer from India</h2>
 
 ###
 
